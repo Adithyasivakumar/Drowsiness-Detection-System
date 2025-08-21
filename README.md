@@ -358,7 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- 📧 Email: [your.email@domain.com]
+- 📧 Email: [adithyasivakumar07@gmail.com]
 - 🐛 Issues: [GitHub Issues](https://github.com/Adithyasivakumar/Drowsiness-Detection-System/issues)
 - 📖 Documentation: [Wiki](https://github.com/Adithyasivakumar/Drowsiness-Detection-System/wiki)
 
